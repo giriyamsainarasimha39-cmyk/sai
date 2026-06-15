@@ -103,8 +103,8 @@ height: 50vh;
 display: flex;
 align-items: center;
 justify-content: center;
-background: linear-gradient(to right, #36377e, #093158);
-color: white;
+background: white;
+color: #c2410c;
 text-align: center;
 padding: 20px;
 }
